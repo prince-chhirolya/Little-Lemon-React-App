@@ -12,7 +12,7 @@
     "@react-native-async-storage/async-storage": "~1.17.3",
     "@react-navigation/native": "^6.1.2",
     "@react-navigation/native-stack": "^6.9.8",
-    "expo": "~52.0.37",
+    "expo": "~55.0.19",
     "expo-checkbox": "~2.2.2",
     "expo-font": "~11.0.1",
     "expo-image-picker": "~14.0.2",
